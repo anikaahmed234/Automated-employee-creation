@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="forgot">
+    <test name="FP">
+        <classes>
+            <class name="Forgotpwdrunner"/>
+        </classes>
+    </test>
+</suite>
