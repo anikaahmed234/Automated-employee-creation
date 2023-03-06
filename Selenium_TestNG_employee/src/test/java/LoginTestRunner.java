@@ -15,6 +15,10 @@ import java.util.Set;
 public class LoginTestRunner extends Setup {
 
     Elements elements;
+    public void scroll() {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("window.scrollBy(0,1000)");
+    }
 
     @BeforeTest(description = "Login")
     public void doLogin() {
@@ -59,7 +63,7 @@ public class LoginTestRunner extends Setup {
 //         id assert
     }
     @Test
-    public void createemp() throws InterruptedException {
+    public void updateemp() throws InterruptedException {
         elements = new Elements(driver);
        elements.editicon.get(0).click();
         scroll();
@@ -83,7 +87,7 @@ public class LoginTestRunner extends Setup {
 
     }
     @Test
-    public void createemp() throws InterruptedException {
+    public void login_out() throws InterruptedException {
         elements = new Elements(driver);
         logout();
         doLogin();

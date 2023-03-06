@@ -98,10 +98,7 @@ public class Elements {
         btnlogin.click();
     }
     // Assuming you have instantiated a WebDriver instance called "driver"
-    public void scroll() {
-        JavascriptExecutor jsExecutor = driver.JavascriptExecutor;
-        jsExecutor.executeScript("window.scrollTo(300, document.body.scrollHeight)");
-    }
+
     public  void logout(){
         dropdown_icon.click();
 }

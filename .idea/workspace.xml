@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6d623c1-17a9-447e-bfb7-5ff38636ea91" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Selenium_TestNG_employee/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_TestNG_employee/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_TestNG_employee/src/test/java/Elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_TestNG_employee/src/test/java/Elements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_TestNG_employee/src/test/java/LoginTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_TestNG_employee/src/test/java/LoginTestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
