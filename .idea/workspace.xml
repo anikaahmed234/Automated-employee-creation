@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6d623c1-17a9-447e-bfb7-5ff38636ea91" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_TestNG_employee/src/test/java/Elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_TestNG_employee/src/test/java/Elements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_TestNG_employee/src/test/java/LoginTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_TestNG_employee/src/test/java/LoginTestRunner.java" afterDir="false" />
+    <list default="true" id="10f6094e-59c5-4a9c-8f64-1d1feb3710e1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,49 +14,211 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/Selenium_TestNG_employee">
+    <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Selenium_TestNG_demo_site_Login_Page_Test" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MdMU4UYOABgyQFofVbyN0h0adB" />
+  <component name="ProjectId" id="2LroqB2jxTTEKwjssn021hvbElO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/47839/Pictures/course mat/GitRepo/Selenium_TestNG/Automated-employee-creation&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/47839/Pictures/course mat/GitRepo/Selenium_TestNG/maildelete",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="TestNG.LoginTestRunner">
+    <configuration name="Forgotpwdrunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_TestNG_demo_site_Login_Page_Test.test" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Forgotpwdrunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Forgotpwdrunner.mforgotcancel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_TestNG_demo_site_Login_Page_Test.test" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Forgotpwdrunner" />
+      <option name="METHOD_NAME" value="mforgotcancel" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestRunner" type="TestNG" nameIsGenerated="true">
+      <module name="Selenium_TestNG_demo_site_Login_Page_Test.test" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTestRunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestRunner.doLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_TestNG_demo_site_Login_Page_Test.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTestRunner" />
+      <option name="METHOD_NAME" value="doLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestRunner.fb" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_TestNG_demo_site_Login_Page_Test.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTestRunner" />
+      <option name="METHOD_NAME" value="fb" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestRunner.mforgotcancel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_TestNG_demo_site_Login_Page_Test.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTestRunner" />
+      <option name="METHOD_NAME" value="mforgotcancel" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="TestNG">
+      <module name="Selenium_TestNG_demo_site_Login_Page_Test.test" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTestRunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.LoginTestRunner" />
+      <item itemvalue="TestNG.Run" />
+      <item itemvalue="TestNG.Forgotpwdrunner" />
+      <item itemvalue="TestNG.Forgotpwdrunner.mforgotcancel" />
+      <item itemvalue="TestNG.LoginTestRunner.doLogin" />
+      <item itemvalue="TestNG.LoginTestRunner.fb" />
+      <item itemvalue="TestNG.LoginTestRunner.mforgotcancel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Forgotpwdrunner" />
+        <item itemvalue="TestNG.LoginTestRunner.mforgotcancel" />
+        <item itemvalue="TestNG.Forgotpwdrunner.mforgotcancel" />
+        <item itemvalue="TestNG.LoginTestRunner.doLogin" />
+        <item itemvalue="TestNG.LoginTestRunner.fb" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a6d623c1-17a9-447e-bfb7-5ff38636ea91" name="Changes" comment="" />
-      <created>1678093018976</created>
+      <changelist id="10f6094e-59c5-4a9c-8f64-1d1feb3710e1" name="Changes" comment="" />
+      <created>1676638751707</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678093018976</updated>
+      <updated>1676638751707</updated>
     </task>
     <servers />
   </component>
@@ -71,5 +232,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="jdk.proxy2.$Proxy15" memberName="h" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Selenium_TestNG_demo_site_Login_Page_Test$Selenium_TestNG_demo_site_Login_Page_Test__dependencies_.ic" NAME="Selenium_TestNG_demo_site_Login_Page_Test [dependencies] Coverage Results" MODIFIED="1676694719472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Selenium_TestNG_demo_site_Login_Page_Test$LoginTestRunner_mforgotcancel.ic" NAME="LoginTestRunner.mforgotcancel Coverage Results" MODIFIED="1676719222743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
