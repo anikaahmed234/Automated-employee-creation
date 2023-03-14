@@ -17,7 +17,7 @@ public class LoginTestRunner extends Setup {
     Elements elements;
     public void scroll() {
         JavascriptExecutor js = (JavascriptExecutor) driver;
-        js.executeScript("window.scrollBy(0,1000)");
+        js.executeScript("window.scrollBy(0,500)");
     }
 
     @BeforeTest(description = "Login")
